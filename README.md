@@ -53,3 +53,14 @@ Agent 可以協助解釋系統為什麼產生某個結果，但不能將系統�
 - 現有的數位鑑識產品是否已經具有類似的功能？
 - AI Agent 要如何知道產品為什麼將某項資訊標記為「值得注意」？
 - 如何避免 Agent 將「可能的關聯」描述成「確定的事實」？
+
+## 每週學習紀錄
+
+### Week 1｜大腦核心：LLM 選擇與參數設定（LLM & Config）
+
+本週學習模型選擇、Parameter、Distillation、Temperature、Response max length 與 Context，並開始研究數位鑑識流程及 Examination × Agent 的可能結合。目前 prototype 仍是構想，尚未完成與驗證。
+
+- [Week 1 繳交版](Week-01/W1-繳交版.md)
+- [Week 1 學習歷程](Week-01/W1-學習歷程.md)
+- [Week 1 研究筆記](Week-01/W1-研究筆記.md)
+- [Week 1 Sources](Week-01/W1-Sources.md)
